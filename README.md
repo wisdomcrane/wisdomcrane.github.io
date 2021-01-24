@@ -1,1 +1,1 @@
-# mjhlog.github.io
+Wisdomcrane's Life Log
