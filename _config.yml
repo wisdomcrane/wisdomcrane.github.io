@@ -15,12 +15,12 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "MJHLOG"
+locale                   : "ko-KR"
+title                    : "Wisdomcrane"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "wisdomcrane"
-description              : "wisdomcrane's Life Log"
+name                     : "Wisdomcrane"
+description              : "Wisdomcrane's Life Log"
 url                      : "https://wisdomcrane.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "wisdomcrane"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "새로 시작한 스타트업과 삶을 기록하는 라이프 로그"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
