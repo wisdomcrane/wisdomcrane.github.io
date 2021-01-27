@@ -58,3 +58,7 @@ root 폴더에 있는 .eslintrc.js 파일에 다음 구문을 추가해준다.
 `Object.keys(myArray).length`
 
 object에서 key만을 추출 한 배열의 길이를 구하면 된다.
+
+- 오늘 아키텍처 작업한 것
+
+![arc](/assets/image/Screenshot_1611758952.png)
