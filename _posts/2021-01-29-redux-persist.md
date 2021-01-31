@@ -42,7 +42,7 @@ store.subscribe(handleChange);
   const getData = async () => {
     const storageData = await AsyncStorage.getItem('objectives');
     const parsed = JSON.parse(storageData);
-    if (!Object.keys(parsed).length) {
+    if (!parsed || !Object.keys(parsed).length) {
       // storage data가 빈 객체일 때는 업데이트 하지 않는다.
       return;
     }
