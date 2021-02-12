@@ -10,11 +10,11 @@ categories: journal
 
 기존 SVG를 수정하고 프로젝트에서 사용했다.
 
-(https://github.com/react-native-svg/react-native-svg)[react-native-svg]를 사용했다.
+[https://github.com/react-native-svg/react-native-svg](react-native-svg)를 사용했다.
 
 컴파일 할 때 준비하고 사용하기 위해서 react-native-svg-transformation도 설치했다.
 
-metro.config.js의 기존 코드를 다음과 같은 코드로 교체했다.
+metro.config.js의 기존 코드를 다음과 같은 코드로 교체했다. 나는 react native cli를 사용중이다.
 
 ```
 const { getDefaultConfig } = require('metro-config');
@@ -44,6 +44,8 @@ import Logo from './logo.svg';
 ```
 
 아이콘은 material ui를 사용하는데 정말 아름답다.
+
+아이콘을 편집할 때는 inkscape를 사용했다. 사각형이나 원 등의 도형을 그리고 노드를 연결하는 선으로 쉽게 편집할 수 있었다. 좋다!
 
 # 모달 창 바깥을 클릭하면 창 닫기
 
@@ -75,3 +77,8 @@ let birthday = new Date(628021800000) // passing epoch timestamp
 ```
 
 그 외에도 UI 잔잔바리들을 잔잔하게 쳤다. 좀 피곤한듯...
+
+# vs code git history 보기 위한 위젯 설치
+
+- Git history (폴더에서 마우스 우클릭을 하면 깃히스토리를 편하게 볼 수 있다.)
+- git graph (선택사항. 깃 히스토리를 그래프로 볼 수 있다.)
