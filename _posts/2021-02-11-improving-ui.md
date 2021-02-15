@@ -10,7 +10,7 @@ categories: journal
 
 기존 SVG를 수정하고 프로젝트에서 사용했다.
 
-[https://github.com/react-native-svg/react-native-svg](react-native-svg)를 사용했다.
+[react-native-svg](https://github.com/react-native-svg/react-native-svg)를 사용했다.
 
 컴파일 할 때 준비하고 사용하기 위해서 react-native-svg-transformation도 설치했다.
 
