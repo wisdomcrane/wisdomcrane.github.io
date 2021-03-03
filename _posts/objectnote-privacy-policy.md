@@ -1,4 +1,12 @@
+---
+title: "목표 노트 개인정보처리방침"
+date: 2021-03-03 15:02:00
+categories: journal
+---
+
 # Object Note Privacy policy
+
+# 목표 노트 개인정보처리방침
 
 Object Note v 1.0.0 does not collect user data. All data is saved in local storage. The data will be deleted completely, if the user delete the app.
 
