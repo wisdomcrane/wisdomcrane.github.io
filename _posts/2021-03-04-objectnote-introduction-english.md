@@ -1,5 +1,5 @@
 ---
-title: "Object Note (Objective, Time, Idea Management)"
+title: "Object Note (Objective, Time, Idea Management) - 인트로"
 date: 2021-03-04 00:00:00
 categories: journal
 ---
@@ -21,3 +21,5 @@ Idea note is the place where your idea can live. Using customizable blocks, you 
 It can be used as meditation tracker, idea dashboard, food diary, gratitude journal, even brushing teeth log.
 
 All data is saved on the local offline app, so you can write down thought freely.
+
+keyword : note,objective,goal,timeblock,time,custom note,block note
