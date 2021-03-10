@@ -37,9 +37,9 @@ comments:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    appid: 2224329990916801
+    num_posts: 5 # 5 (default)
+    colorscheme: "light" # "light" (default), "dark"
   utterances:
     theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
@@ -95,7 +95,7 @@ author:
   name: "wisdomcrane"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "새로 시작한 스타트업과 삶을 기록하는 라이프 로그
-  \n목표노트\n[앱스토어](https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EB%85%B8%ED%8A%B8/id1557404426)\n[플레이 스토어](https://play.google.com/store/apps/details?id=com.objectnote)"
+  \n\n목표노트\n\n[앱스토어](https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EB%85%B8%ED%8A%B8/id1557404426)\n\n[플레이 스토어](https://play.google.com/store/apps/details?id=com.objectnote)"
   location: "Seoul"
   email:
   links:
@@ -267,6 +267,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
