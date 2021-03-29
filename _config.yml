@@ -95,7 +95,7 @@ author:
   name: "wisdomcrane"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "새로 시작한 스타트업과 삶을 기록하는 라이프 로그
-  \n\n목표 노트 앱 출시!\n\n![/assets/image/appstore.svg](https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EB%85%B8%ED%8A%B8/id1557404426)\n\n[플레이스토어](http://onelink.to/n4mvcn)"
+  \n\n목표 노트 앱 출시!\n\n[![목표노트 앱스토어](/assets/image/appstore.svg)](https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EB%85%B8%ED%8A%B8/id1557404426)\n\n[플레이스토어](http://onelink.to/n4mvcn)"
   location: "Seoul"
   email:
   links:
