@@ -23,14 +23,14 @@ name: "Wisdomcrane"
 description: "Wisdomcrane's Life Log"
 url: "https://wisdomcrane.github.io"
 baseurl: ""
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "wisdomcrane/wisdomcrane.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -38,11 +38,11 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid: 429175401713738
-    num_posts: 5 # 5 (default)
+    num_posts: 10 # 5 (default)
     colorscheme: "light" # "light" (default), "dark"
   utterances:
-    theme: # "github-light" (default), "github-dark"
-    issue_term: # "pathname" (default)
+    theme: "github-light" 
+    issue_term: "pathname"
   staticman:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
