@@ -1,15 +1,21 @@
 ---
-title: "목표 노트 스토어 링크 (Objective note store link)"
-date: 2021-04-06 00:00:00
+title: "리액트 네이티브 Pressable 두번 눌러야 저장되는 문제"
+date: 2021-04-19 00:00:00
 categories: journal
 ---
 
-# 목표 노트
+스크롤뷰에서 발생하는 문제로
 
-목표노트는 목표를 달성하게 해주고 시간을 관리하는 노트입니다.
+`<ScrollView keyboardShouldPersistTaps={'handled'}>`
 
-목표 노트와 함께 당신의 꿈을 이뤄보세요!
+이렇게 처리해주면 된다.
 
-![목표노트 앱스토어](/assets/image/appstore-badge.png)
+키보드가 항상 보여야 한다면
 
-![목표노트 구글 플레이스토어](/assets/image/google-play-badge.png)
+`<ScrollView keyboardShouldPersistTaps="always">`
+
+이렇게 처리해주면 된다.
+
+사소하지만 생각보다 자주 마주치는 문제.
+
+무려 14일만에 블로그당~~!

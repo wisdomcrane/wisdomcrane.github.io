@@ -18,9 +18,9 @@ categories: journal
 
 화면별 시뮬레이터
 
-5.5″ Display — 8 PLUS
-6.5" Display — iPhone XS Max or 11 Pro Max
-12.9″ Display — iPad Pro (12.9 inch)
+- 5.5″ Display — 8 PLUS
+- 6.5" Display — iPhone XS Max or 11 Pro Max
+- 12.9″ Display — iPad Pro (12.9 inch)
 
 플레이스토어
 
