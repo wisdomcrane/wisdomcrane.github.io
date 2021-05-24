@@ -10,6 +10,6 @@ categories: journal
 
 목표 노트와 함께 당신의 꿈을 이뤄보세요!
 
-![목표노트 앱스토어](/assets/image/appstore-badge.png)
+[![목표노트 앱스토어](/assets/image/appstore-badge.png)](https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EB%85%B8%ED%8A%B8/id1557404426)
 
-![목표노트 구글 플레이스토어](/assets/image/google-play-badge.png)
+[![목표노트 구글 플레이스토어](/assets/image/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.objectnote)
